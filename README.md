@@ -40,6 +40,42 @@ I am a dedicated M.Sc. AI & Data Science student at Deggendorf Institute of Tech
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nltk/nltk-original.svg" alt="NLTK" width="35" height="35"/>
 </p>
 
+<h3 align="left">Skills & Tools:</h3>
+<p align="left"> 
+  <!-- Programming -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="35" height="35"/>
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="35" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Keras_logo.svg" alt="Keras" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/nltk/nltk-icon.svg" alt="NLTK" width="35" height="35"/>
+
+  <!-- Data Engineering & Cloud -->
+  <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="PySpark" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="35" height="35"/>
+
+  <!-- Visualization -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Matplotlib_logo.svg" alt="Matplotlib" width="35" height="35"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="35" height="35"/>
+
+  <!-- Deployment -->
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="35" height="35"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="35" height="35"/>
+
+  <!-- Languages -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Flag_of_England.svg" alt="English" width="35" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="German" width="35" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Hindi & Kannada" width="35" height="35"/>
+</p>
+
+
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=darshan12hs&show_icons=true&locale=en&theme=radical" width="48%">
