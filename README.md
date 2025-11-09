@@ -19,7 +19,7 @@ I am a dedicated M.Sc. AI & Data Science student at Deggendorf Institute of Tech
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan12hs&label=Profile%20views&color=0e75b6&style=flat" alt="darshan12hs" /> </p>
 
 - 🌱 Currently pursuing **M.Sc. in Artificial Intelligence and Data Science** at Deggendorf Institute of Technology  
-- 💬 Ask me about **Machine Learning, NLP, LLMs, Databases, LangChain, LangGraph, Generative AI**  
+- 💬 Ask me about **Machine Learning, NLP, LLMs, Databases, LangChain, Generative AI**  
 - 📫 Contact me: **darshan12hs@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
