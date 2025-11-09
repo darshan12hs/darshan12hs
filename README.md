@@ -30,18 +30,6 @@ I am a dedicated M.Sc. AI & Data Science student at Deggendorf Institute of Tech
 
 <h3 align="left">Skills & Tools:</h3>
 <p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="35" height="35"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="35" height="35"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nltk/nltk-original.svg" alt="NLTK" width="35" height="35"/>
-</p>
-
-<h3 align="left">Skills & Tools:</h3>
-<p align="left"> 
   <!-- Programming -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="35" height="35"/>
