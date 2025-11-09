@@ -28,30 +28,6 @@ I am a dedicated M.Sc. AI & Data Science student at Deggendorf Institute of Tech
 <a href="https://github.com/darshan12hs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Education:</h3>
-- **M.Sc. Artificial Intelligence and Data Science**, Deggendorf Institute of Technology, Germany (2023–present)  
-- **B.Tech. Instrumentation and Control Engg.**, Manipal Institute of Technology, India (2017–2021)  
-
-<h3 align="left">Work Experience:</h3>
-- **Master Thesis**, Technology Campus Freyung, Germany (05/2025–11/2025)  
-  - Research on AI-driven image synthesis for sensor data (RGB, IR, RADAR, Laser)  
-- **Research Intern**, Technology Campus Freyung, Germany (01/2025–03/2025)  
-  - Built and trained GANs for sensor and image datasets  
-- **Data Engineer**, Cognizant, Bangalore, India (08/2021–09/2023)  
-  - Developed PySpark scripts, ETL pipelines on GCP, data cleaning & validation  
-- **Data Science Trainee**, Learnbay, Bangalore, India (05/2022–05/2023)  
-  - ML/DL models, NLP & LLM-based solutions  
-- **AI & Analytics Intern**, Cognizant, Bangalore, India (03/2021–07/2021)  
-  - SQL queries, ETL pipelines, data workflows using GCP  
-
-<h3 align="left">Highlighted Projects:</h3>
-- **[Semiconductor Yield Classifier](https://github.com/darshan12hs/Semiconductor_Manufacturing)** – Supervised ML models with Flask live prediction  
-- **[Sentiment Analysis on IMDB](https://github.com/darshan12hs/IMDB_RNN_LSTM_GRU)** – RNN, LSTM, GRU-based models for sentiment prediction  
-- **[Amazon Reviews Analysis](https://github.com/darshan12hs/Case_Study_Word2Vec)** – NLP preprocessing & Word2Vec embeddings  
-- **[Customer Churn Modeling](https://github.com/darshan12hs/Customer_Churn_DNN)** – DNN for churn prediction  
-- **[ChatBot](https://huggingface.co/darshan12hs)** – LLM-based chatbot using OpenAI API, HuggingFace, Streamlit  
-- **[Spam Mail Detection](https://github.com/darshan12hs/Spam_Detection_using_BERT)** – BERT-based spam classification  
-
 <h3 align="left">Skills & Tools:</h3>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
