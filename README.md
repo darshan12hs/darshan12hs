@@ -1,6 +1,6 @@
 ![logo](https://gifdb.com/images/high/ai-finger-print-recognition-zl4ku51ojamo22k9.gif)
 <h1 align="center">Hi 👋, I'm Darshan Hassan Shivakumar</h1>
-<h3 align="center">Aspiring Data Science Student | AI & Data Enthusiast | Part-time Cricketer</h3>
+<h3 align="center">Aspiring Data Science Student | AI & Data Enthusiast </h3>
 
 🌟 Welcome to my GitHub profile! 🌟  
 
@@ -11,8 +11,7 @@ I am a dedicated M.Sc. AI & Data Science student at Deggendorf Institute of Tech
 - Strong analytical skills: Turning raw data into actionable insights  
 - Constant learner: Keeping up with AI, ML, NLP, and Generative AI  
 - Problem solver: Tackling real-world challenges with data-driven solutions  
-- Collaboration: Experienced in team projects and diverse environments  
-- Fun fact: Part-time cricketer 🏏  
+- Collaboration: Experienced in team projects and diverse environments 
 
 <img align="right" alt="Coding" width="350" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
 
