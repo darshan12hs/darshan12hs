@@ -69,10 +69,6 @@ I am a dedicated M.Sc. AI & Data Science student at Deggendorf Institute of Tech
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="35" height="35"/>
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="35" height="35"/>
 
-  <!-- Languages -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Flag_of_England.svg" alt="English" width="35" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" alt="German" width="35" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Hindi & Kannada" width="35" height="35"/>
 </p>
 
 
