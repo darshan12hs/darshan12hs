@@ -77,6 +77,14 @@ Machine Learning | Generative AI | Data Engineering | Big Data | Cloud Analytics
 
 ---
 
+## 🎥 YouTube Lectures  
+
+I also share **recorded tutorials and lectures** on data science and AI topics:
+
+🔗 https://www.youtube.com/@darshan12hs  
+
+---
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=darshan12hs&label=Profile%20views&color=0e75b6&style=flat" alt="darshan12hs" />
 </p>
