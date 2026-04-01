@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Darshan Hassan Shivakumar</h1>
 <h3 align="center">Data Science Graduate | AI & Data Enthusiast 🚀</h3>
 
-🚀 **Building scalable AI systems and data-driven solutions for real-world impact**
 
 ---
 
@@ -14,7 +13,7 @@ I am a passionate **M.Sc. graduate in Artificial Intelligence & Data Science (Gr
 I specialize in developing **end-to-end data science solutions**, from data processing and modeling to deployment, with a strong focus on **Machine Learning, Generative AI, and Data Engineering**.
 
 💼 **Specializations:**  
-Machine Learning | Generative AI | Data Engineering | Big Data | Cloud Analytics  
+Machine Learning | Generative AI | Data Engineering | Big Data | Cloud Analytics  | Data Analyst
 
 ---
 
@@ -22,7 +21,8 @@ Machine Learning | Generative AI | Data Engineering | Big Data | Cloud Analytics
 
 - Data Scientist roles  
 - Machine Learning Engineer roles  
-- AI / Generative AI Engineer roles  
+- AI / Generative AI Engineer roles
+- Data Analyst roles
 
 ---
 
@@ -34,25 +34,6 @@ Machine Learning | Generative AI | Data Engineering | Big Data | Cloud Analytics
 - Continuous learning: Exploring LLMs, GenAI, and scalable systems  
 
 <img align="right" alt="Coding" width="350" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
-
----
-
-## 🚀 Featured Projects  
-
-### 🔹 AI Resume Analyzer (LLM + NLP)  
-- Built using Transformers and NLP techniques  
-- Extracts, analyzes, and scores resumes automatically  
-- Improved candidate screening efficiency  
-
-### 🔹 End-to-End Data Pipeline (PySpark + GCP)  
-- Designed scalable ETL pipeline using PySpark  
-- Processed large datasets efficiently on Google Cloud  
-- Optimized data processing workflows  
-
-### 🔹 Computer Vision System  
-- Developed deep learning model for image classification  
-- Applied CNN architectures with high accuracy  
-- Solved real-world visual recognition problems  
 
 ---
 
