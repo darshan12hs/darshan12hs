@@ -69,7 +69,9 @@ Machine Learning | Generative AI | Data Engineering | Big Data | Cloud Analytics
 - Problem Solving  
 
 ### 🔹 Cloud  
-- Google Cloud Platform (GCP)  
+- Google Cloud Platform (GCP)
+- AWS
+- Azure
 
 ### 🔹 Visualization  
 - Power BI  
