@@ -81,7 +81,7 @@ Machine Learning | Generative AI | Data Engineering | Big Data | Cloud Analytics
   <img src="https://komarev.com/ghpvc/?username=darshan12hs&label=Profile%20views&color=0e75b6&style=flat" alt="darshan12hs" />
 </p>
 
-- 💬 Ask me about **Machine Learning, NLP, LLMs, Databases, LangChain, Generative AI**  
+- 💬 Ask me about **Machine Learning, NLP, LLMs, Databases, Generative AI**  
 - 📫 Contact me: **darshan12hs@gmail.com**
 
 ---
